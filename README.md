@@ -15,6 +15,7 @@
 This is an Udacity Data Scientist Nanodegree Program's project - "Disaster Response Pipelines" in collaboration with Figure Eight.
 The main objective of this project is to create a Machine Learning Pipeline to categorize real-life disaster events and eventually send it to appropriate disaster relief agency.
 
+
 ### 2. Getting Started
 #### **a. Project Details :** 
 - This project is divided into 3 sections below :
@@ -55,6 +56,7 @@ The main objective of this project is to create a Machine Learning Pipeline to c
 ![Sample Message](images/Sample%20Message.png)
   - *After clicking **"Classify Message"**, those relevant categories will be highlighted in green as shown below*
 ![Message Categories](images/Message%20Categories.png)
+
 
 ### 4. Licensing, Authors, Acknowledgements
 1. Acknowledgements to 
