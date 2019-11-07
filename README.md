@@ -58,6 +58,6 @@ The main objective of this project is to create a Machine Learning Pipeline to c
 
 ### 4. Licensing, Authors, Acknowledgements
 1. Acknowledgements to 
-  - Udacity Data Scientist Nano Degree courses for some of code ideas
-  - Figure Eight for providing real-life disaster events to train my model 
+   - Udacity Data Scientist Nano Degree courses for some of code ideas
+   - Figure Eight for providing real-life disaster events to train my model 
 2. Otherwise, feel free to use the code here as you would like !
